@@ -1,0 +1,19 @@
+﻿  enemy2.cpp
+C:\Users\Giannis\Desktop\Game\Game\enemy2.h(23,41): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Giannis\Desktop\Game\Game\enemy2.h(24,79): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Giannis\Desktop\Game\Game\enemy2.h(25,80): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Giannis\Desktop\Game\Game\enemy2.h(27,54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Giannis\Desktop\Game\Game\enemy2.h(28,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Giannis\Desktop\Game\Game\enemy2.h(30,81): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Giannis\Desktop\Game\Game\enemy2.h(31,82): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Giannis\Desktop\Game\Game\enemy2.h(33,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Giannis\Desktop\Game\Game\enemy2.h(34,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Giannis\Desktop\Game\Game\enemy2.cpp(6,81): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
+C:\Users\Giannis\Desktop\Game\Game\enemy2.cpp(9,79): warning C4244: '-=': conversion from 'long double' to 'float', possible loss of data
+C:\Users\Giannis\Desktop\Game\Game\enemy2.cpp(13,79): warning C4244: '-=': conversion from 'long double' to 'float', possible loss of data
+  Generating code
+  1 of 485 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Game.vcxproj -> C:\Users\Giannis\Desktop\Game\bin\Game.exe
